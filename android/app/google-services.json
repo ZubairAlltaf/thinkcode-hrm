@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1035725202291",
+    "project_id": "think-code-hrm",
+    "storage_bucket": "think-code-hrm.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1035725202291:android:1b87cc1b8de03cc8b9db06",
+        "android_client_info": {
+          "package_name": "com.onuvia.thinkcode"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWAMcLs1xMUYXvfLTG1b98y_ZRjhl01Ec"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
